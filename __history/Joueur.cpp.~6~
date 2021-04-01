@@ -1,0 +1,32 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Joueur.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+Joueur::Joueur(){
+	trait = false;
+}
+
+void Joueur::DonnerLeTrait(){
+	trait = true;
+}
+
+void Joueur::RetirerLeTrait(){
+	trait = true;
+}
+
+bool Joueur::Trait(){
+	return trait;
+}
+
+int Joueur::Minutes(){
+	return minutes;
+}
+
+int Joueur::Secondes(){
+	return secondes;
+}
+	int Minutes(), Secondes();

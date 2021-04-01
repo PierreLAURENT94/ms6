@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/02 09:47:42.000.040,=C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/10/02 09:47:42.000.139,=C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2021/03/22 15:06:50.000.530,=C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2021/03/22 15:06:50.000.327,=C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2021/03/22 15:07:26.000.432,=C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2021/03/22 15:08:28.000.979,C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Echiquier.h</Transaction>
+    <Transaction>2021/03/22 15:08:28.000.979,C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Echiquier.cpp</Transaction>
+    <Transaction>2021/03/22 15:09:24.000.958,C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Echiquier.h=C:\Users\plaurent\Desktop\ms6\Echiquier.h</Transaction>
+    <Transaction>2021/03/22 15:09:24.000.958,C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Echiquier.cpp=C:\Users\plaurent\Desktop\ms6\Echiquier.cpp</Transaction>
+    <Transaction>2021/03/22 15:09:24.000.059,C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\File1.cpp=C:\Users\plaurent\Desktop\ms6\File1.cpp</Transaction>
+    <Transaction>2021/03/22 15:09:25.000.883,C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\plaurent\Desktop\ms6\Project1PCH1.h</Transaction>
+    <Transaction>2021/03/22 15:09:26.000.759,C:\Users\plaurent\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\plaurent\Desktop\ms6\Project1.cbproj</Transaction>
+    <Transaction>2021/03/25 15:37:46.000.937,=C:\Users\plaurent\Desktop\ms6\Unit1.cpp</Transaction>
+    <Transaction>2021/03/25 15:38:12.000.878,C:\Users\plaurent\Desktop\ms6\Joueur.cpp=C:\Users\plaurent\Desktop\ms6\Unit1.cpp</Transaction>
+    <Transaction>2021/03/25 15:38:12.000.878,C:\Users\plaurent\Desktop\ms6\Joueur.h=C:\Users\plaurent\Desktop\ms6\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
